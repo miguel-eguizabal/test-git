@@ -1,6 +1,7 @@
 Script for the level 1
 
+New line inserted
 
-
+New second line
 
 Vim is funny!
